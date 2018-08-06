@@ -32,9 +32,8 @@ import (
 )
 
 const (
-	testNamespace   = "test-namespace"
-	testRevision    = "test-revision"
-	testRevisionKey = "test-namespace/test-revision"
+	testNamespace = "test-namespace"
+	testRevision  = "test-revision"
 )
 
 // FIXME: Matt Moor asked 'Can we combine some of these tests into a "table test"?'
